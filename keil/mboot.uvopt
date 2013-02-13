@@ -140,7 +140,6 @@
           <Name>-UV0168AVR -O8198 -S135 -C0 -N00("ARM926EJ-S Core") -D00(0792603F) -L00(4) -FO7 -FD300000 -FC800 -FN0</Name>
         </SetRegEntry>
       </TargetDriverDllRegistry>
-      <Breakpoint/>
       <WatchWindow2>
         <Ww>
           <count>0</count>
